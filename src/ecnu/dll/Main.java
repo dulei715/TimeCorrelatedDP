@@ -1,4 +1,4 @@
-package edu.ecnu.dll;
+package ecnu.dll;
 
 import org.apache.commons.math3.distribution.LaplaceDistribution;
 
