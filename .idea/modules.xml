@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TimeCorrelatedDP.iml" filepath="$PROJECT_DIR$/TimeCorrelatedDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeCorrelatedDPJava.iml" filepath="$PROJECT_DIR$/TimeCorrelatedDPJava.iml" />
     </modules>
   </component>
 </project>
